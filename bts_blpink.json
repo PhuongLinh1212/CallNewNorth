@@ -1,0 +1,45 @@
+{
+  "ads": {
+    "id_app": "",
+    "banner_setting": "",
+    "inter_setting": "",
+    "banner_main": "",
+    "inter_main": "",
+    "fb_banner": "",
+    "fb_inter": "",
+    "banner_setting_new": "",
+    "inter_setting_new": "",
+    "banner_main_new": "",
+    "inter_main_new": "",
+    "onlyAdmod": true,
+    "onlyFB": false
+  }, 
+  "app_exists": {
+    "id": "com.video.cartoon.callcat.videocall.call",
+    "is_exists": true,
+    "is_show_more": false,
+    "isShowAds":true
+  },
+  "apps": [
+    {
+      "id": "com.blackpink.blackpinkmessenger.blackpinkcall.callblackpink.blackpinkidol",
+      "icon": "https://play-lh.googleusercontent.com/fYOCZCkYD8erilM2M49aWC42Gi96Tebyz45okbhDwvRuL5abK71G3L80FoeQxIKDXf2m=s360-rw",
+      "name": "Bts Call You: Fake Video Call",
+      "des": "Definitely not below once you have ever wanted about BTS calls.."
+    }
+  ],
+  "like_page": [
+    {
+      "linkImage": "https://www.linkpicture.com/q/banner_fb.png",
+      "linkClick": "https://shopee.vn/shop/103322288"
+    },
+    {
+      "linkImage": "https://www.linkpicture.com/q/banner_shopee.png",
+      "linkClick": "https://banhang.shopee.vn/portal/product/6344686659/"
+    },
+    {
+      "linkImage": "https://www.linkpicture.com/q/banner_shopee_2.png",
+      "linkClick": "https://www.facebook.com/%C3%81o-thun-1796474033956276"
+    }
+  ]
+}
