@@ -1,10 +1,10 @@
 {
   "ads": {
     "id_app": "",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "banner_setting": "ca-app-pub-2277813866725244/2753670551",
+    "inter_setting": "ca-app-pub-2277813866725244/6501343872",
+    "banner_main": "ca-app-pub-2277813866725244/3875180531",
+    "inter_main": "ca-app-pub-2277813866725244/1249017192",
     "fb_banner": "",
     "fb_inter": "",
     "banner_setting_new": "",
@@ -18,7 +18,7 @@
     "id": "com.guide.scary.call.teacher3d.prank.scaryteachercall.callvideo",
     "is_exists": true,
     "is_show_more": false,
-    "isShowAds":false
+    "isShowAds":true
   },
   "apps": [
     {
