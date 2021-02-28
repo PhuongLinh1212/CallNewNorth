@@ -16,7 +16,7 @@
   }, 
   "app_exists": {
     "id": "com.vladafour.callvideo.pank",
-    "is_exists": true,
+    "is_exists": false,
     "is_show_more": false,
     "isShowAds":true
   },
